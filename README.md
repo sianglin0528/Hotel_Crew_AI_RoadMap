@@ -74,14 +74,6 @@
 - **Pricing Analyst**：依入住率 × 競品 → 建議區間與定位  
 - **Response Agent**：產出**繁中 + English** 回覆
 
-#### Pipeline
-```mermaid
-graph TD
-    T1[理解需求\n(Customer)] --> T2[估入住率\n(Forecast)]
-    T2 --> T3[動態定價\n(Pricing)]
-    T3 --> T4[最終回覆（中＋EN）\n(Response)]
-```
-
 ### 4.2 系統架構
 ```
 Hotel_Crew_AI_RoadMap/
