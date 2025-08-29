@@ -64,13 +64,6 @@ This involves:
 - **Pricing Analyst** → Suggest price range & positioning  
 - **Response Agent** → Deliver final bilingual answer  
 
-#### Pipeline
-```mermaid
-graph TD
-    T1[Understand request\n(Customer)] --> T2[Forecast occupancy\n(Forecast)]
-    T2 --> T3[Dynamic pricing\n(Pricing)]
-    T3 --> T4[Final bilingual response\n(Response)]
-```
 
 ### 4.2 System Architecture
 ```
