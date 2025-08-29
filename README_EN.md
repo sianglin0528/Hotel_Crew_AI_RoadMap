@@ -1,12 +1,11 @@
-# Hotel Crew AI Assistant — CrewAI × Streamlit
+# Hotel Crew AI Assistant — CrewAI × Streamlit  
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)  
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)  
-[![CrewAI](https://img.shields.io/badge/CrewAI-MultiAgent-green)](https://www.crewai.com/)  
-[![License](https://img.shields.io/badge/License-MIT-black)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/sianglin0528/Hotel_Crew_AI_RoadMap?style=social)](https://github.com/sianglin0528/Hotel_Crew_AI_RoadMap)  
+![Python](https://img.shields.io/badge/Python-3.12-blue) 
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit) 
+![CrewAI](https://img.shields.io/badge/CrewAI-MultiAgent-green) 
+![License](https://img.shields.io/badge/License-MIT-black) 
+![Stars](https://img.shields.io/github/stars/sianglin0528/Hotel_Crew_AI_RoadMap?style=social)
 
----
 
 An AI assistant for hotel **Revenue Management System (RMS)** use cases, built with **CrewAI multi-agent orchestration** + **Streamlit interactive UI**.  
 This project is documented using the **CRISP-DM framework**.  
