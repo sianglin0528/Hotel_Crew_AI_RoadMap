@@ -1,0 +1,9 @@
+streamlit>=1.36
+crewai
+python-dotenv
+pandas
+numpy
+crewai[tools]
+openai>=1.30.0
+langchain>=0.2.0
+langchain-openai>=0.1.0
